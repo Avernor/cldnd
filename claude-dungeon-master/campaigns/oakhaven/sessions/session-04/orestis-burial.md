@@ -1,5 +1,5 @@
-# Thread 3 — Ο Ορέστης
-*(The Consequence. He knows everything and he drinks. The fragile ally who learned too much last session.)*
+# Session 4 — Ορέστης & the Burial (menu A)
+*(S4 TABLE COPY of session-03/thread-3-orestis.md — use THIS file tonight; the original stays as the historical record.)*
 
 ---
 

@@ -1,6 +1,22 @@
 # Guests — Τα Χελιδόνια (The Swallows)
 *(Roles for the players' girlfriends, Session 4. Zero rules burden, maximum license. Everything player-facing is in Greek.)*
 
+## ⏱ WHEN AND HOW THE PARTY MEETS THEM (read this first — table-time vs. story-time)
+
+The guests are at the table all night, but **the party does not meet the troupe in the fiction until Scene 6 (morning)**. Keep the two clocks straight:
+
+| Table moment | In the fiction | Party ↔ troupe contact |
+|---|---|---|
+| **Scene 0** (session opens) | *Yesterday at dusk* — the cart arrives, last one of the year | **None** — but the troupe **saw a candle moving** inside the "empty" house between chapel and river. **They watched the party's dungeon from the outside.** |
+| **Scenes 1–5** (night half) | The troupe is asleep at the inn / in the cart | **None in fiction.** Guests participate only via **voice slips SET A** in Combat 1 — a table device: the monster borrows their real voices; their *characters* are not on the lawn. |
+| **Scene 6** (morning inn) | **FIRST MEETING.** Painted cart in the square, corner table (Vanya's old table), Ασπασία reads the party in one pass, then **Η Μοιρασιά** — one Swallow assigned to each PC for the day | **The binding hook**: a Swallow mentions the candlelight they saw last night in the "empty" house. The party realizes: *they were watched — by the only people in the valley who could still see the house.* Let that land before Ασπασία pairs them up. |
+| **Scene 7 onward** (all day) | The Swallows shadow their PCs everywhere (Μοιρασιά) | At the stable combat they are **present in the fiction** behind the fence — so SET B slips are now *diegetic*: the creature speaks with the voices of women standing right there. Much worse. Use it. |
+| **Scene 11** (dawn) | Asleep behind painted curtains; wintering over | Recurring guests — the pass is closing behind them. |
+
+*(Why the troupe can see the forgotten house at all: they're from outside the valley — the village's edited inattention doesn't bind them. Don't explain this at the table; let a player figure it out.)*
+
+---
+
 ## Concept
 
 A small traveling company out of **Καίλεν** — singers, a fortune-teller, a dancer, a companion — arrived for **Το Χειμωνιάτικο Πανηγύρι** (less than two weeks away) and planning to winter in the village, because the pass is about to close. They are called **Τα Χελιδόνια** — swallows that should have flown south, and instead flew into a valley about to be sealed shut.
@@ -44,6 +60,42 @@ Why this works:
 - During the Άφτιαχτο fight, hand the guests the creature's **borrowed voices** (slips below) — the Unmade speaks through them. Instant participation, very creepy.
 - Names: let each guest name her own character (card has a blank).
 - If only 3 guests attend, hold one card back — they're modular.
+
+---
+
+## Η Μοιρασιά — one Swallow on each shoulder *(Scene 6 — the pairing engine)*
+
+**The problem this solves**: Ασπασία's job-assignments keep the guests busy — but busy *elsewhere*. This attaches one guest **to each PC for the whole day**, so every scene the party walks into, a Swallow walks into with them. Guests are in the action all session without ever rolling combat dice.
+
+**How it fires**: morning inn, after Ασπασία has worked the room. She looks at the four strangers, then at her girls, and makes the day's assignment out loud:
+
+> *«Το χωριό ετοιμάζει πανηγύρι, και το πανηγύρι θέλει ιστορίες. Αυτοί οι τέσσερις ΕΙΝΑΙ η ιστορία — το μισό χωριό τούς κοιτάει λοξά και το άλλο μισό κάνει πως δεν τους βλέπει. Μία στον καθένα, κορίτσια. Πετάξτε.»*
+
+If a PC objects: *«Δεν σου ζήτησα άδεια, αγόρι μου. Σου έκανα τη χάρη να το πω μπροστά σου.»*
+
+**Her real reasons (layered — never all spoken)**:
+1. *Stated*: fair scouting. The party goes everywhere interesting, and information is her currency.
+2. *Half-stated*: last night something screamed on the Reyne lawn and the whole village pretended to sleep through it. The pass is closing behind her. She intends to know exactly what her troupe just wintered itself into — and these four clearly know.
+3. *Never stated*: something followed the cart in. She has looked at the armed strangers once and decided her girls are safest standing in their shadow.
+
+### The pairs (each girl has her own reason to stay glued)
+
+| Swallow | PC | Why *she* wants to be there |
+|---|---|---|
+| **Η Χαρτορίχτρα** | **the 4th** | He is the first person in her life her cards refused to read. Envelope 2 is burning a hole in her pocket. She trails him like an unsolved trick, dealing cards behind his back and frowning at them. |
+| **Η Τραγουδίστρια** | **the Bard** | Professional courtesy — two performers trading repertoire. She wants his songs for the fair; he is the only person in the valley worth singing *with*. (This puts her in the room for the Reading — the natural moment for «Η Μάνα κι οι Ώρες».) |
+| **Η Χορεύτρια** | **the Fighter (compass-bearer)** | She's the one who saw the hooded woman on the road — and this man wears iron that *ticks*. She reads bodies for a living; she has decided to stand next to the man everything in this village reacts to, and watch. |
+| **Η Συνοδός** | **the Paladin** | She is hiding from someone in Καίλεν and picks her shadows carefully — the armored one with the oath is the safest place in the valley. People tell her things; beside him, people will tell her *everything*. (This walks her into the burial — where she can name **κυρα-Μάρθα**.) |
+
+If the party splits at the Scene 8 menu, **the pairs split with them** — that's the point. (Watch one thing: the Μάρθα payoff needs the companion at the burial. The Paladin pairing makes that likely; if he goes to the stones instead, have Ασπασία redirect: *«Εσύ — στην κηδεία. Κάποιος πρέπει να κλάψει σωστά σ' αυτό το χωριό.»*)
+
+### Small rules that make the pairing real
+
+- **Εύνοια, sharpened**: a guest's Favor token now spends on **her** PC specifically — narrated as her noticing something he missed (a dropped lantern, a shifted floorboard, a lie in someone's hands). Same mechanic: advantage on one roll.
+- **Second pair of eyes** (new, once per scene): a guest walking with her PC may ask you one question about what her character notices, or declare one small mundane detail she spots — answer honestly. Entertainers see everything; this makes it mechanical without being a skill system.
+- **In combat**: still non-combatants — behind cover, holding horses, in front of each other. Their three sanctioned moves: read a voice slip when pointed at; spend Εύνοια as a shouted warning to *her* PC; and **name what she sees, out loud** — a guest describing the creature's wrongness in her own words is free horror that costs the table nothing.
+
+*(Scenes 0–5 are unchanged — the troupe arrives in the fiction the previous evening, so the pairing engine starts at the morning inn and runs to dusk. The girls are asleep behind painted curtains by the dawn departure.)*
 
 ---
 

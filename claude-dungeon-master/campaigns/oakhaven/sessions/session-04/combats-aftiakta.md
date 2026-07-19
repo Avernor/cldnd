@@ -1,5 +1,16 @@
-# Thread 4 — Άφτιαχτο
-*(The Planted Combat Beat. This thread **fires this session.** Do not let the session end without it.)*
+# Session 4 — Both Άφτιαχτα Combats
+*(S4 TABLE COPY of session-03/thread-4-aftiakto.md — use THIS file tonight; the original stays as the historical record. Covers **Combat 1 (the bound guard)** and **Combat 2 (Άνδρος)**.)*
+
+---
+
+## COMBAT 1 — The Bound Guard (Reyne lawn, night — Scene 4)
+
+Use the stat block below with these overrides:
+- **AC 13, HP 35** (deliberately bound guard — tougher than a wild one)
+- Appears on the lawn as they leave with the loot. **Voice slips SET A** (guests file). The Echo Knight's **faceless echo debuts here** — let the table see that his ability looks like the monster.
+- **Grace note possible but weaker**: it does not know it has a name — *«Δεν θυμάμαι. Με... χρησιμοποίησε αυτή. Αν έχω όνομα, το πήρε εκείνη.»*
+- Fair fight for four PCs — correct for a reunion night.
+- **Aftermath beat**: somewhere too far to be the village, a woman is crying. It stops. (Vanya, rattled — they'll understand at the Reading.)
 
 ---
 

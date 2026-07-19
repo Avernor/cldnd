@@ -1,5 +1,5 @@
-# Thread 5 — Available If Pursued
-*(Quick-reference stubs for threads the party may pursue but should NOT be surfaced unsolicited. The pacing rule for this session is: do not overwhelm.)*
+# Session 4 — Εστία (menu B bridge) & Θάλεια (conditional)
+*(S4 TABLE COPY of session-03/thread-5-available.md — use THIS file tonight; the original stays as the historical record.)*
 
 ---
 

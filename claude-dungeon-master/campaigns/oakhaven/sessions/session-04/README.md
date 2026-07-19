@@ -10,15 +10,17 @@
 | File | What's in it |
 |---|---|
 | [README.md](./README.md) | This file — scene arc, both combats, threads, Answers Board, checklists |
+| [reyne-house-findings.md](./reyne-house-findings.md) | **UNIFIED ONE-SHEET** — Inner Sanctum + everything found in the Reyne house, all read-alouds, objects manifest. Use this at the table instead of paging through thread-6 |
 | [recap-opening.md](./recap-opening.md) | Greek read-aloud recap for the 3 players, ends at the open door |
 | [briefing-returning-player.md](./briefing-returning-player.md) | **Send to [ΟΝΟΜΑ] before the session** |
 | [dm-notes-return.md](./dm-notes-return.md) | The return: divergence ledger, verification toolkit, resolved dials |
 | [guests-troupe.md](./guests-troupe.md) | **Τα Χελιδόνια** — guest cards, **Κυρα-Ασπασία (full NPC)**, voice slips explained, envelopes, lullaby |
-| [../session-03/thread-6-reyne-house.md](../session-03/thread-6-reyne-house.md) | Sanctum contents + all Vanya read-alouds + Λυχνία + the guard Άφτιαχτο |
-| [../session-03/thread-4-aftiakto.md](../session-03/thread-4-aftiakto.md) | **Combat 2 source** — Άφτιαχτο stat block, Άνδρος grace note, after-beats |
-| [../session-03/thread-3-orestis.md](../session-03/thread-3-orestis.md) | Ορέστης — the back room, the knife, **the eight-name list** |
-| [../session-03/thread-2-pregnancy.md](../session-03/thread-2-pregnancy.md) | Μίρα — probe table for the dusk beat |
-| [../session-03/thread-5-available.md](../session-03/thread-5-available.md) | Θάλεια (5D — **will activate if Άνδρος is named**), Εστία (5C — stones corroboration) |
+| [combats-aftiakta.md](./combats-aftiakta.md) | **Both combats** — stat block; Combat 1 guard (AC 13, HP 35, SET A); Combat 2 Άνδρος (HP 40, SET B), grace notes, after-beats |
+| [orestis-burial.md](./orestis-burial.md) | Menu A — Ορέστης: the back room, the knife, **the eight-name list**, the burial |
+| [mira-probe.md](./mira-probe.md) | Μίρα — probe table, compass placement, **S4 quick rule for the day**, Scene 10 |
+| [estia-thaleia.md](./estia-thaleia.md) | Εστία (menu B bridge), Θάλεια (**activates if Άνδρος is named** — else S5+) |
+
+*(Everything needed tonight now lives in this directory. The `../session-03/thread-*.md` originals remain as historical records — the four files above are their S4 table copies, already adjusted for four PCs and milestone leveling.)*
 
 ## Settled facts going in
 
@@ -78,7 +80,7 @@ The players should walk away KNOWING, not suspecting. Check these off as they la
 
 Run Scene 0 (vignette), Scene 1 (recap + «Λοιπόν; Ποιος μπαίνει πρώτος;»), Scene 2 (sanctum), Scene 3 (mirror, modified script), Scene 4 (guard combat — **voice slips SET A** from guests-troupe.md; the faceless-echo debut beat) as previously written. Additions:
 
-- **Scene 2**: if they take the personal journal but don't read it on the spot, fine — it reads in Scene 9. If they read it now, let them; move Scene 9's journal weight here.
+- **Scene 2**: if they take the personal journal but don't read it on the spot, fine — it reads in Scene 9. If they read it now, let them; move Scene 9's journal weight here. Same rule for **the working notebook**: it's their loot, it reads whenever they open it — and if that's here, the **«Τρεις» beat** (thread-6, annotated at the excerpt) fires in her own lab, two minutes before the mirror counts *four*. Best possible sequencing; don't block it.
 - **Scene 4**: guard is CR 2 (thread-6 buffed block). With four PCs this is a fair fight, not a hard one — that's correct for a reunion night.
 - **Scene 4 aftermath**: as the guard falls/fades, drop thread-4 after-beat #4 — somewhere too far to be the village, **a woman is crying.** It stops. (Vanya, rattled. They'll understand at the Reading.)
 
@@ -97,7 +99,7 @@ She opens the door, sees **four**, goes very still. Then, in order:
 
 ## Scene 6 — Morning: the inn, Τα Χελιδόνια, Κυρα-Ασπασία
 
-Run the arrival from [guests-troupe.md](./guests-troupe.md) — the painted cart, the corner table (Vanya's old table), the village remembering it has a fair in ten days. **Κυρα-Ασπασία** works the room (full NPC sheet in guests file): she books the fair with the Elders, needles Αλέξης about winter lodging, reads the party in one pass, and *assigns her girls jobs* — which is your live tool for feeding the guests mini-objectives all day (*«Μάθε μου ποιος κουμαντάρει το πανηγύρι. Εσύ, τον παπά — γιατί δεν χτύπησε καμπάνα χθες;»*).
+Run the arrival from [guests-troupe.md](./guests-troupe.md) — the painted cart, the corner table (Vanya's old table), the village remembering it has a fair in ten days. **Κυρα-Ασπασία** works the room (full NPC sheet in guests file): she books the fair with the Elders, needles Αλέξης about winter lodging, reads the party in one pass — and then runs **Η Μοιρασιά** (guests file): she assigns **one Swallow to each PC for the day** (*«Μία στον καθένα, κορίτσια. Πετάξτε.»*). From this moment every scene the party enters, their paired guest enters too — fortune-teller↔the 4th, singer↔Bard, dancer↔Fighter, companion↔Paladin. Her job-assignments remain the backup tool if anyone drifts idle (*«Μάθε μου ποιος κουμαντάρει το πανηγύρι. Εσύ, τον παπά — γιατί δεν χτύπησε καμπάνα χθες;»*).
 
 - **The stag head**: someone from his briefing angle — the 4th glances at the hearth. One antler. *«Ποιος του έσπασε το κέρατο;»* Divergence #2, free.
 - **Αλέξης's line** (thread-3 hook, verbatim): *«Ο Ορέστης χθες βράδυ... δεν ήταν καλά. Έλεγε πράγματα. Σήμερα δεν έχει ανοίξει το παρεκκλήσι. Δεν είναι του χαρακτήρα του.»* — the bell has not rung for the first time in fourteen years. Plants menu item A.
@@ -135,6 +137,8 @@ Run the arrival from [guests-troupe.md](./guests-troupe.md) — the painted cart
 **Θάλεια (conditional — be ready)**: if Άνδρος was named in front of villagers, word reaches Μαρίνα's shop within the hour. The party carries a dead man's message. Run 5D **only if they pursue it today** — midday, the back room, the wool shirt; Νεφέλη takes over after (*«Άσε με μ' αυτήν. Δεν είναι δουλειά για ξένους.»*). Otherwise it keeps for Session 5+. Do not force it into an overfull day.
 
 ## Scene 8 — Menu of two
+
+*(If the party splits, the paired Swallows split with them — Μοιρασιά rule. The Μάρθα payoff needs the **companion** at the burial; she's paired with the Paladin, and if he picks the stones, Ασπασία redirects her: «Εσύ — στην κηδεία.»)*
 
 **A. Το Παρεκκλήσι — Ορέστης and the burial.** Run thread-3 exactly: the back room, the sour wine, the folded hood, **the clean knife** (don't point at it; reward the player who sees it). Get him up — water, a song, a hand. Then give him work: the two vessels need graves. He recognizes **Στέφανος** from his own list; if the guests attend, the companion names **κυρα-Μάρθα**. Two real burials, two real names, the bell rings again before dusk — *«Δεν ήξερα ποιον θα καλούσε. Τώρα ξέρω. Αυτούς τους δύο.»* He gives the party **the eight-name list** from the registry drawer. *(He is saved, the list is in play, and the crack-in-public timeline is defused.)*
 

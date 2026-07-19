@@ -31,6 +31,18 @@ His Manifest Echo is a gray, translucent duplicate **without a face** — delibe
 | 8 | Slabs in the cellar were **empty**; no fight | Party fought and dropped two vessels | Maximal immediate wrongness in the room they're standing in: he asks whose bodies those are; they ask where he was during the fight. «Εδώ. Ήμουν εδώ.» |
 | 9 | Ring solves: **his echo** satisfied *birth*; Fighter studied (*sight*); Νάνος swore (*vow*) | However your table actually solved them | If the real solves differed, the mismatch surfaces organically as one more discrepancy — free content either way. |
 
+## If the party retraces his timeline (they will)
+
+His briefing hands the table three leads the real party never followed. Be ready for each:
+
+- **Ο Κόρακας (divergence #3)** — hunter's cabin at the **edge of Ο Παλαιόδρυμος**, ~2 hours' walk west past Νεφέλη's. Everything the 4th "remembers" from that visit is REAL intel (the woman in two places, the no-whistling rule, «τα χωρίς πρόσωπα», iron nails, the Κέλης ledger tip) — **but the real Κόρακας has never met any of them.** That's the beat: the 4th greets him warmly; Κόρακας reaches for his axe. And keep the ledgered payoff loaded: the first time Κόρακας sees the faceless echo manifest, he recoils — *«Κράτα το αυτό. Μακριά από μένα.»* — exactly as the 4th remembers him doing. Same man, same fear, different timeline. **Timing**: a Κόρακας visit doesn't fit Session 4's fixed day — deflect to S5+ (the trip is 4–5 hours round; the needle points north, not west). If they insist, run it as the S5 cold open.
+- **The Κέλης ledger (divergence #4)** — already lands tonight, Scene 7 aftermath. No trip needed; the timeline hands it to them.
+- **The stones (divergence #6)** — Scene 8 menu B. Already staged.
+
+### Where the Άφτιαχτα live (when the players ask — they will)
+
+**The deep Παλαιόδρυμος.** Canon (lore.md + the experiment log): every leaky erasure leaves a remnant that wanders the Oldwood trying to remember what it was — some were people, some animals, one might have been a building. They are **tethered to the thin spot's reach**: they can drift to its edges (the pass, the road, the treeline) but not leave — the one that followed the party in the 4th's memory stopped at the forest edge *«σαν να το κρατούσε σκοινί που δεν φαινόταν»*. Άνδρος only made it to the village by walking behind the Χελιδόνια's music, and the bound guard was deliberately leashed to the house by Vanya. They never enter domestic spaces. **The wood is quietly filling** — every fragment she burns adds one or two — but a deep-Oldwood expedition is Session 5+ material at the earliest, and the "one wild Άφτιαχτο per session" cap holds until the party is level 5. If the players get curious tonight, the honest in-world answer comes cheap: Κόρακας knows, Νεφέλη suspects, and the log says it in Vanya's own hand — *«εμφάνιση Άφτιαχτου στον Δρυμό».*
+
 ## Dials — RESOLVED (DM decisions)
 1. **Stones**: ✅ **He counts NINE, normally — the others still can't.** He can perceive the hidden Watcher. Beat scripted in [README.md](./README.md) Scene 6C. Long-term: he is now the party's only eye on the Ninth Stone thread — when the time comes, he is the one who can find her, describe her, speak to her.
 2. **Anchoring**: ✅ **Fully anchored.** No flicker, no tower-sewing. He is simply, impossibly, stable — which should worry Vanya more, not less («Ποιος σε έφτιαξε εσένα;»).

@@ -1,5 +1,5 @@
-# Thread 2 — Η Εγκυμοσύνη
-*(The Home Base. Vanya is probing Μίρα's baby. Νεφέλη is the early warning. Stakes: a child the party can save, if they're paying attention.)*
+# Session 4 — Μίρα & the Probes
+*(S4 TABLE COPY of session-03/thread-2-pregnancy.md — use THIS file tonight; the original stays as the historical record.)*
 
 > **Session 3 note**: this thread is handled through the **Νεφέλη interlude** on the way to the Reyne House and the closing scene back at her cottage. The party does NOT need to directly attend to Μίρα this session — Νεφέλη has her. **The full sandbox below is for Session 4 onward, when the party can stay in the village and engage directly.**
 >
@@ -77,6 +77,14 @@ Roll **once per hour** of in-game time the party is *not* with Μίρα and the 
 | 20 | **Edit attempted** — Vanya tries to retroactively erase the conception. Without the compass present, this would *succeed* (Mira would forget she was ever pregnant; the village would too). With Νεφέλη in the room, it half-fails: Μίρα keeps the baby but loses two weeks of memory of being pregnant. Confused, frightened, but the baby is alive. **This is your worst-case beat. Use sparingly.** |
 
 **Modifier**: -2 to the roll if they've left the compass at the cottage. Vanya cannot probe through it.
+
+### ⚠ S4 quick rule — managing the day without bookkeeping
+
+Don't roll hourly through the busy village day. Use checkpoints:
+
+- **Compass left at Νεφέλη's** (Μίρα is there): probes deflect entirely — no rolls until the staged Scene 10. **Cost**: no compass aura at the stable combat (Άνδρος can't be locked at disadvantage), and the "compass cools" after-beat moves to when they next wear it. This trade is REAL — surface it, don't smooth it (Νεφέλη already asked: *«Η πυξίδα μένει εδώ. Όσο μπορείτε.»*).
+- **Compass carried all day**: exactly **one probe lands mid-afternoon** (13–17 severity: the cottage goes cold, Μίρα's belly tightens, Νεφέλη sends word). No baby-threatening result before dusk — the day is for answers, the dusk is for stakes.
+- **Scene 10 (probe II) fires regardless as a staged scene** — party in the room, rougher than before (she counted *four*). The party being present and the compass being near means the shield **strains but holds**: show it (frost on the window glass, the needle whining), don't roll it into failure. Baby survives tonight unless the party has been genuinely negligent all day.
 
 ---
 

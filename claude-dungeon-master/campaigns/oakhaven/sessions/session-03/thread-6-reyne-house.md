@@ -3,6 +3,22 @@
 
 ---
 
+> ## ⚠ SESSION 4 REUSE NOTES (read this first — the rest of the file is partly historical)
+>
+> **Already played in Session 3 — do not rerun**: house exploration, Κόρη grace note (Paladin laid her to rest), cellar key, **vessel combat (won — bodies still on the cellar floor, bury/burn/leave open)**, three-ring door puzzle (solved). Session 4 cold-opens at the **open sanctum door**.
+>
+> **Live for Session 4**:
+> - **Inner Sanctum contents** (cradle, personal journal, blood vial, sealed letter, milk-tooth) — S4 Scene 2
+> - **All written-intel read-alouds** (working notebook, experiment log, personal journal, letter, maps): the loot is the party's — **fire each read-aloud whenever the players actually open that item**, in the lab or at Νεφέλη's. The S4 plan only *stages* preferred moments (log + edit-map at Scene 5; the rest at Scene 9).
+> - **Mirror beat**: use the **modified script in the S4 README Scene 3** (she counts FOUR — «Ποιος σε έφτιαξε εσένα;»), NOT the version at the bottom of this file.
+> - **The guard Άφτιαχτο** ("optional final combat" section): **no longer optional — it is S4 Combat 1**, on the lawn as they leave. AC 13, HP 35. Voice slips SET A (guests file).
+>
+> **Party is now FOUR** (returning player, Fighter 3 Echo Knight). The notebook line *«Οι ξένοι ήρθαν. Τρεις.»* is now a live beat — see the note at that excerpt.
+>
+> **All XP awards in this file are obsolete** — milestone leveling (everyone hits level 4 at S4 end). Keep the Inspiration awards; they still apply.
+
+---
+
 ## Pacing warning
 
 **This thread is ~90–120 minutes of play.** It is too much to combine with both the tower (Thread 1) AND the pregnancy crisis (Thread 2) in a single session.
@@ -444,6 +460,8 @@ This is the most genuinely haunting beat in the dungeon. **Let it sit. Do not ex
 > *«Σήμερα ο Σίλας μου χαμογέλασε. Δεν με ξέρει. Είναι καλό σημάδι — η μετατόπιση κρατάει. Αν είχε νιώσει κάτι, θα κατάλαβε. Άλλη μία δοκιμή το ξημέρωμα.»*
 
 > *«Οι ξένοι ήρθαν. Τρεις. Έχουν την πυξίδα. ΠΥΞΙΔΑ. Δεν θα έπρεπε να υπάρχει αυτό εδώ. Πού την βρήκαν; Πρέπει να σκεφτώ.»*
+
+**⚠ S4 — the «Τρεις» beat**: with the 4th at the table, this line is written proof he wasn't here when she wrote it — the enemy's own hand counting three. **Do not flag the word; read it plainly and let the table catch it.** It fires wherever they read the notebook: in the lab (Scene 2 — ideal: two minutes before the mirror counts *four*) or at Νεφέλη's (Scene 9). Only if it goes unnoticed by the Scene 9 reading, Νεφέλη rereads flatly: *«"Τρεις," γράφει. Εσείς πόσοι είστε;»*
 
 > *«Δεν μπορώ να τους αγγίξω άμεσα όσο την κρατούν. Πρέπει να δουλέψω γύρω τους. Η Μίρα είναι ο δρόμος. Το παιδί.»*
 
